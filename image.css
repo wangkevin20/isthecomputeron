@@ -1,0 +1,30 @@
+body {
+  background-color: #6495ED
+}
+
+.text {
+  top: 200px;
+  height: 200px;
+  position: relative;
+  color: white;
+}
+
+.center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.footer{
+    position: absolute;
+    top: 375px;
+    left: 227px;
+    width:1033px;
+    color: white;
+    background-color:#4169E1;
+    padding: 40px 0;
+    text-align: center;
+}
